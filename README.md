@@ -4,3 +4,5 @@ tengo la intencion de generar estudio de datos asociados a mejoras educativas
 si sabe de alguien o usted conoce un recurso que me sirva
 lo agradecere
 saludos mundo 
+Ahora edito esta linea para cumplir con la tarea del tutorial
+=)
